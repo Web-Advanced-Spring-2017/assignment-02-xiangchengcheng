@@ -4,7 +4,7 @@
 
 **Due Date: Week 11 - Midnight of 4/5/2017**
 
-## :star2: [Accept Assignment](https://classroom.github.com/assignment-invitations/fa9b8a186aae86d6585e4297354cb863)
+## :star2: [Accept Assignment](https://classroom.github.com/assignment-invitations/36e19048eb7663ae1786db6d71333cef)
 
 ## Assignment Specification
 Develop a small project using a RESTful API of your own choice. 
